@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "940421864326",
+    "firebase_url": "https://awesome-drawing-f8467.firebaseio.com",
+    "project_id": "awesome-drawing-f8467",
+    "storage_bucket": "awesome-drawing-f8467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940421864326:android:d54d3dc3d8d693bd4cea07",
+        "android_client_info": {
+          "package_name": "com.codelab.awesomedrawin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940421864326-0oskhh9r32p0252el8qckq0khofpngf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codelab.awesomedrawin",
+            "certificate_hash": "65cf87e58cd9c533ded7366f8e4657f784ceb31a"
+          }
+        },
+        {
+          "client_id": "940421864326-4r7ier1r8bdmrgemiuntd3rjgqgv4uj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtgsiDGv42uwiw8rcneZGRbFFLcYENT_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940421864326-4r7ier1r8bdmrgemiuntd3rjgqgv4uj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
